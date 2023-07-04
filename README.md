@@ -23,7 +23,7 @@
 
 Блок-схема алгоритма:
 
-![B![Alt text](Block_diagram.drawio-1.png)]
+![Блок-схема](Block_diagram.drawio.png)
 
 Код программы:
 
