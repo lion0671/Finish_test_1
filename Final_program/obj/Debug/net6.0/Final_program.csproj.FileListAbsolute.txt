@@ -1,0 +1,15 @@
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\bin\Debug\net6.0\Final_program.exe
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\bin\Debug\net6.0\Final_program.deps.json
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\bin\Debug\net6.0\Final_program.runtimeconfig.json
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\bin\Debug\net6.0\Final_program.dll
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\bin\Debug\net6.0\Final_program.pdb
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\obj\Debug\net6.0\Final_program.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\obj\Debug\net6.0\Final_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\obj\Debug\net6.0\Final_program.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\obj\Debug\net6.0\Final_program.AssemblyInfo.cs
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\obj\Debug\net6.0\Final_program.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\obj\Debug\net6.0\Final_program.dll
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\obj\Debug\net6.0\refint\Final_program.dll
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\obj\Debug\net6.0\Final_program.pdb
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\obj\Debug\net6.0\Final_program.genruntimeconfig.cache
+C:\Users\SONY\Desktop\Finish_test_1\Final_program\obj\Debug\net6.0\ref\Final_program.dll
